@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Sergeevme
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👨 Hi, I’m @Sergeevme
+- 💛 I’m interested in Android Development, Java, Kotlin
+- ⭐ I’m currently learning Kotlin for backend (Ktor)
 
 <!---
 Sergeevme/Sergeevme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
