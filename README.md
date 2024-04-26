@@ -1,6 +1,8 @@
 👨 Hi, I am **@Sergeevme**
 
-**Android Developer**: Android SDK, Kotlin, Java, MV patterns, XML, Compose, Material 3, Coroutines / Flow, DI (Koin, Hilt), LiveData, Room, Retrofit 2, OkHttp, Gson, Glide, Picasso, Lottie, FCM, Firebase Analytics, JUnit, Espresso and etc.
+**Android Developer**: Android SDK, Kotlin, Java, MV patterns, XML, Jetpack Compose, Material 3, Coroutines / Flow, DI (Koin, Hilt, Dagger), LiveData, Room, Retrofit 2, OkHttp, Gson / KSerialization, Glide / Picasso, Lottie, Billing, Play Services, FCM, Firebase Analytics, JUnit, Espresso, Mockito and etc.
+
+**Information Security**: cryptography, network communications, machine learning, data analytics, mobile security.
 
 <!---
 Sergeevme/Sergeevme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
