@@ -1,6 +1,6 @@
 👨 Hi, I am **@Sergeevme**
 
-**Android Developer**: Android SDK, Kotlin, Java, MV patterns, XML, Jetpack Compose, Material 3, Coroutines / Flow, DI (Koin, Hilt, Dagger), LiveData, Room, Retrofit 2, OkHttp, Gson / KSerialization, Glide / Picasso, Lottie, Billing, Play Services, FCM, Firebase Analytics, JUnit, Espresso, Mockito and etc.
+**Android Developer**: Android SDK, Kotlin, Java, MV patterns, XML, Kotlin Multiplatfrom (KMP), Jetpack Compose, Material 3, Coroutines / Flow, DI (Koin, Hilt, Dagger), LiveData, Room, Retrofit 2, OkHttp, Gson / KSerialization, Glide / Picasso / Coil, Lottie, Billing, Play Services, FCM, Firebase Analytics, JUnit, Espresso, Mockito and etc.
 
 **Information Security**: cryptography, network communications, machine learning, data analytics, mobile security.
 
